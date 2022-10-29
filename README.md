@@ -1,0 +1,1 @@
+Play music by clicking on buttons.
